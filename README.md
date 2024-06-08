@@ -4,7 +4,7 @@
 
 Con este proyecto lo que se pretende es que tu puedas intentar averigual el valor de unos diamantes, simplemente con un dataset que contiene once columnas de informacion y más de cuarenta mil filas de diamantes. Tu debes averiguar el precio de estos, simplemente con el tratamiento de los datos.
 
-![Image](img/diamantes.jpeg)
+![Image](img/diamantes.jpg)
 
 El proyecto se encuentra aún en su fase Beta. Aún se sigue mejorando para poder acercarnos mas al precio real de estos diamantes.
 
